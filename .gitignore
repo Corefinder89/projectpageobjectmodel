@@ -1,2 +1,5 @@
 .idea/
-.pytest_cache
+.pytest_cache/
+src/__pycache__/
+src/pages/__pycache__/
+test/__pycache__/
